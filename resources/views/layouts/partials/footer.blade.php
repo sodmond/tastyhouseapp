@@ -20,7 +20,7 @@
                             </div>
 
                             <div class="service-detail">
-                                <h5>Free Delivery For Order Over $50</h5>
+                                <h5>Free Delivery For Order Over ₦50</h5>
                             </div>
                         </div>
 

@@ -129,7 +129,7 @@
 
                                             <div class="price-box">
                                                 <h5>Total :</h5>
-                                                <h4 class="theme-color fw-bold">$106.58</h4>
+                                                <h4 class="theme-color fw-bold">₦106.58</h4>
                                             </div>
 
                                             <div class="button-group">

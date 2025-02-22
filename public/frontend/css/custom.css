@@ -74,3 +74,8 @@ header .onhover-dropdown .onhover-div-login {
 .btn-animation {
     background: linear-gradient(90deg, #F77323 0%, #F77323 100%) !important;
 }
+
+.category-list li .category-list-box .form-check-label .name:hover{
+    text-decoration: underline;
+    color: #F77323;
+}
