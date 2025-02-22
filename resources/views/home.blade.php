@@ -2254,7 +2254,7 @@
                     </div>
                 </div>--}}
 
-                <div class="title d-block">
+                <div class="title d-block mt-4">
                     <div>
                         <h2>Our best Seller</h2>
                         <span class="title-leaf">
