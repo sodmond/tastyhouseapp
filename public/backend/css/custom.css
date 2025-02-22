@@ -1,0 +1,106 @@
+:root {
+    --theme-color: #F77323;
+}
+
+* a {
+    color: #F77323;
+}
+
+.log-in-section::after{
+    background-image: url('../images/bg-01.png') !important;
+    background-size: cover;
+    background-position: center;
+}
+
+.log-in-section .log-in-box .log-in-title h3 {
+    color: #F77323 !important;
+}
+
+.btn-animation, .btn-theme {
+    background: #F77323 !important;
+}
+
+input[type=checkbox], input[type=radio] {
+    accent-color: #F77323 !important;
+    color: #FFFFFF !important;
+}
+
+.page-wrapper.compact-wrapper .page-body-wrapper div.sidebar-wrapper {
+    background: linear-gradient(-45deg, #F77323, #CC731C, #000000) !important;
+}
+
+
+.page-wrapper .page-header .header-wrapper .search-full .form-group::before {
+    background-color: #CC731C;
+}
+
+.btn-custom {
+    border: 1px solid #F77323 !important;
+    background-color: #F77323 !important;
+    color: #fff;
+}
+
+.btn-custom:hover {
+    border: 1px solid #CC731C !important;
+    background-color: #CC731C !important;
+}
+
+.table-product .table thead tr th:nth-last-child(2),
+.table-product .table thead tr th:first-child,
+.table-product .table tbody tr td:nth-last-child(2) {
+    text-align: left !important;
+}
+
+.alert-success {
+    color: #0f5132 !important;
+    background-color: #d1e7dd !important;
+    border-color: #badbcc !important;
+}
+
+.alert-danger {
+    color: #842029 !important;
+    background-color: #f8d7da !important;
+    border-color: #f5c2c7 !important;
+}
+
+.alert-info {
+    color: #055160 !important;
+    background-color: #cff4fc !important;
+    border-color: #cff4fc !important;
+}
+
+.alert-warning {
+    color: #664d03 !important;
+    background-color: #fff3cd !important;
+    border-color: #fff3cd !important;
+}
+
+.page-item.active .page-link {
+    background-color: #F77323;
+    border-color: #F77323;
+}
+  
+.page-link {
+    color: #F77323;
+}
+  
+.page-link:hover {
+    color: #dc3545;
+}
+
+.btn-danger {
+    color: #fff !important;
+    background-color: #dc3545 !important;
+    border-color: #dc3545 !important;
+}
+
+.btn-success {
+    color: #fff !important;
+    background-color: #198754 !important;
+    border-color: #198754 !important;
+}
+
+.videoEmbed iframe {
+    aspect-ratio: 16 / 9 !important;
+    height: auto !important;
+}

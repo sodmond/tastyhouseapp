@@ -1,0 +1,72 @@
+:root {
+    --theme-color: #F77323 !important;
+    --theme-color-rgb: 13, 164, 135;
+    --theme-color1: #CC731C !important;
+    --theme-color1-rgb: 14, 148, 122;
+    --theme-color2: linear-gradient(90.56deg, var(--theme-color1) 8.46%, var(--theme-color) 62.97%);
+}
+header .navbar.navbar-expand-xl .navbar-nav .nav-link::before {
+    content: "";
+}
+header .navbar.navbar-expand-xl .navbar-nav .dropdown-toggle::before {
+    content: "";
+    position: absolute;
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    right: -12px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+header .onhover-dropdown .onhover-div-login {
+    right: 0;
+    width: 160px;
+    padding: 20px;
+    margin-top: -20px !important;
+}
+
+.page-item.active .page-link {
+    background-color: #F77323;
+    border-color: #F77323;
+}
+  
+.page-link {
+    color: #F77323;
+}
+  
+.page-link:hover {
+    color: #dc3545;
+}
+
+/* Scrollbar Customize Starts Here */
+/* width */
+::-webkit-scrollbar {
+    width: 10px !important;
+}
+::-webkit-scrollbar {
+    width: 10px !important;
+}
+  
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1 !important;
+}
+  
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #F77323 !important;
+    border-radius: 20px;
+}
+  
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #dc3545 !important;
+}
+/* Scrollbar Customize Ends Here .onhover-category-box*/
+
+.videoEmbed iframe {
+    aspect-ratio: 16 / 9 !important;
+    height: auto !important;
+    width: 100%;
+}
