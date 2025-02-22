@@ -96,6 +96,26 @@
                     </div>
                 </div>
             </div>
+
+            <div>
+                <div class="banner-contain hover-effect">
+                    <img src="{{ asset('frontend/images/vegetable/banner/7.jpg') }}" class="bg-img blur-up lazyload" alt="">
+                    <div class="banner-details">
+                        <a href="shop-left-sidebar.html" class="banner-button text-white">Shop Now <i
+                                class="fa-solid fa-right-long ms-2"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <div>
+                <div class="banner-contain hover-effect">
+                    <img src="{{ asset('frontend/images/vegetable/banner/7.jpg') }}" class="bg-img blur-up lazyload" alt="">
+                    <div class="banner-details">
+                        <a href="shop-left-sidebar.html" class="banner-button text-white">Shop Now <i
+                                class="fa-solid fa-right-long ms-2"></i></a>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>
@@ -271,7 +291,7 @@
                                                     <h6 class="name">Meatigo Premium Goat Curry</h6>
                                                 </a>
                                                 <span>450 G</span>
-                                                <h6 class="price theme-color">$ 70.00</h6>
+                                                <h6 class="price theme-color">₦ 70.00</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -290,7 +310,7 @@
                                                     <h6 class="name">Dates Medjoul Premium Imported</h6>
                                                 </a>
                                                 <span>450 G</span>
-                                                <h6 class="price theme-color">$ 40.00</h6>
+                                                <h6 class="price theme-color">₦ 40.00</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -309,7 +329,7 @@
                                                     <h6 class="name">Good Life Walnut Kernels</h6>
                                                 </a>
                                                 <span>200 G</span>
-                                                <h6 class="price theme-color">$ 52.00</h6>
+                                                <h6 class="price theme-color">₦ 52.00</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -328,7 +348,7 @@
                                                     <h6 class="name">Apple Red Premium Imported</h6>
                                                 </a>
                                                 <span>1 KG</span>
-                                                <h6 class="price theme-color">$ 80.00</h6>
+                                                <h6 class="price theme-color">₦ 80.00</h6>
                                             </div>
                                         </div>
                                     </div>
@@ -458,7 +478,7 @@
                                                 </a>
 
                                                 <h5 class="sold text-content">
-                                                    <span class="theme-color price">$26.69</span>
+                                                    <span class="theme-color price">₦26.69</span>
                                                     <del>28.56</del>
                                                 </h5>
 
@@ -546,7 +566,7 @@
                                                 </a>
 
                                                 <h5 class="sold text-content">
-                                                    <span class="theme-color price">$26.69</span>
+                                                    <span class="theme-color price">₦26.69</span>
                                                     <del>28.56</del>
                                                 </h5>
 
@@ -639,7 +659,7 @@
                                                 </a>
 
                                                 <h5 class="sold text-content">
-                                                    <span class="theme-color price">$26.69</span>
+                                                    <span class="theme-color price">₦26.69</span>
                                                     <del>28.56</del>
                                                 </h5>
 
@@ -731,7 +751,7 @@
                                                 </a>
 
                                                 <h5 class="sold text-content">
-                                                    <span class="theme-color price">$26.69</span>
+                                                    <span class="theme-color price">₦26.69</span>
                                                     <del>28.56</del>
                                                 </h5>
 
@@ -824,7 +844,7 @@
                                                 </a>
 
                                                 <h5 class="sold text-content">
-                                                    <span class="theme-color price">$26.69</span>
+                                                    <span class="theme-color price">₦26.69</span>
                                                     <del>28.56</del>
                                                 </h5>
 
@@ -912,7 +932,7 @@
                                                 </a>
 
                                                 <h5 class="sold text-content">
-                                                    <span class="theme-color price">$26.69</span>
+                                                    <span class="theme-color price">₦26.69</span>
                                                     <del>28.56</del>
                                                 </h5>
 
@@ -1007,7 +1027,7 @@
                                                 </a>
 
                                                 <h5 class="sold text-content">
-                                                    <span class="theme-color price">$26.69</span>
+                                                    <span class="theme-color price">₦26.69</span>
                                                     <del>28.56</del>
                                                 </h5>
 
@@ -1096,7 +1116,7 @@
                                                 </a>
 
                                                 <h5 class="sold text-content">
-                                                    <span class="theme-color price">$26.69</span>
+                                                    <span class="theme-color price">₦26.69</span>
                                                     <del>28.56</del>
                                                 </h5>
 
@@ -1188,7 +1208,7 @@
                                                 </a>
 
                                                 <h5 class="sold text-content">
-                                                    <span class="theme-color price">$26.69</span>
+                                                    <span class="theme-color price">₦26.69</span>
                                                     <del>28.56</del>
                                                 </h5>
 
@@ -1277,7 +1297,7 @@
                                                 </a>
 
                                                 <h5 class="sold text-content">
-                                                    <span class="theme-color price">$26.69</span>
+                                                    <span class="theme-color price">₦26.69</span>
                                                     <del>28.56</del>
                                                 </h5>
 
@@ -1370,7 +1390,7 @@
                                                 </a>
 
                                                 <h5 class="sold text-content">
-                                                    <span class="theme-color price">$26.69</span>
+                                                    <span class="theme-color price">₦26.69</span>
                                                     <del>28.56</del>
                                                 </h5>
 
@@ -1459,7 +1479,7 @@
                                                 </a>
 
                                                 <h5 class="sold text-content">
-                                                    <span class="theme-color price">$26.69</span>
+                                                    <span class="theme-color price">₦26.69</span>
                                                     <del>28.56</del>
                                                 </h5>
 
@@ -1525,7 +1545,7 @@
                     <p>Top Categories Of The Week</p>
                 </div>
 
-                <div class="category-slider-2 product-wrapper no-arrow">
+                <div class="category-slider-2 product-wrapper no-arrow mb-4">
                     @foreach($th_categories1 as $cat)
                     <div>
                         <a href="shop-left-sidebar.html" class="category-box category-dark">
@@ -1627,7 +1647,7 @@
                     </div>
                 </div>--}}
 
-                <div class="title d-block">
+                <div class="title d-block mt-4">
                     <h2>Food Cupboard</h2>
                     <span class="title-leaf">
                         <svg class="icon-width">
@@ -1677,7 +1697,7 @@
                                             </a>
 
                                             <h5 class="sold text-content">
-                                                <span class="theme-color price">$26.69</span>
+                                                <span class="theme-color price">₦26.69</span>
                                                 <del>28.56</del>
                                             </h5>
 
@@ -1768,7 +1788,7 @@
                                             </a>
 
                                             <h5 class="sold text-content">
-                                                <span class="theme-color price">$26.69</span>
+                                                <span class="theme-color price">₦26.69</span>
                                                 <del>28.56</del>
                                             </h5>
 
@@ -1859,7 +1879,7 @@
                                             </a>
 
                                             <h5 class="sold text-content">
-                                                <span class="theme-color price">$26.69</span>
+                                                <span class="theme-color price">₦26.69</span>
                                                 <del>28.56</del>
                                             </h5>
 
@@ -1950,7 +1970,7 @@
                                             </a>
 
                                             <h5 class="sold text-content">
-                                                <span class="theme-color price">$26.69</span>
+                                                <span class="theme-color price">₦26.69</span>
                                                 <del>28.56</del>
                                             </h5>
 
@@ -2041,7 +2061,7 @@
                                             </a>
 
                                             <h5 class="sold text-content">
-                                                <span class="theme-color price">$26.69</span>
+                                                <span class="theme-color price">₦26.69</span>
                                                 <del>28.56</del>
                                             </h5>
 
@@ -2132,7 +2152,7 @@
                                             </a>
 
                                             <h5 class="sold text-content">
-                                                <span class="theme-color price">$26.69</span>
+                                                <span class="theme-color price">₦26.69</span>
                                                 <del>28.56</del>
                                             </h5>
 
@@ -2262,7 +2282,7 @@
                                                 <h6 class="name">Tuffets Whole Wheat Bread</h6>
                                             </a>
                                             <span>500 G</span>
-                                            <h6 class="price theme-color">$ 10.00</h6>
+                                            <h6 class="price theme-color">₦ 10.00</h6>
                                         </div>
                                     </div>
                                 </div>
@@ -2281,7 +2301,7 @@
                                                 <h6 class="name">Potato</h6>
                                             </a>
                                             <span>500 G</span>
-                                            <h6 class="price theme-color">$ 10.00</h6>
+                                            <h6 class="price theme-color">₦ 10.00</h6>
                                         </div>
                                     </div>
                                 </div>
@@ -2300,7 +2320,7 @@
                                                 <h6 class="name">Green Chilli</h6>
                                             </a>
                                             <span>200 G</span>
-                                            <h6 class="price theme-color">$ 10.00</h6>
+                                            <h6 class="price theme-color">₦ 10.00</h6>
                                         </div>
                                     </div>
                                 </div>
@@ -2319,7 +2339,7 @@
                                                 <h6 class="name">Muffets Burger Bun</h6>
                                             </a>
                                             <span>150 G</span>
-                                            <h6 class="price theme-color">$ 10.00</h6>
+                                            <h6 class="price theme-color">₦ 10.00</h6>
                                         </div>
                                     </div>
                                 </div>
@@ -2342,7 +2362,7 @@
                                                 <h6 class="name">Tuffets Britannia Cheezza</h6>
                                             </a>
                                             <span>500 G</span>
-                                            <h6 class="price theme-color">$ 10.00</h6>
+                                            <h6 class="price theme-color">₦ 10.00</h6>
                                         </div>
                                     </div>
                                 </div>
@@ -2361,7 +2381,7 @@
                                                 <h6 class="name">Long Life Toned Milk</h6>
                                             </a>
                                             <span>1 L</span>
-                                            <h6 class="price theme-color">$ 10.00</h6>
+                                            <h6 class="price theme-color">₦ 10.00</h6>
                                         </div>
                                     </div>
                                 </div>
@@ -2380,7 +2400,7 @@
                                                 <h6 class="name">Organic Tomato</h6>
                                             </a>
                                             <span>1 KG</span>
-                                            <h6 class="price theme-color">$ 10.00</h6>
+                                            <h6 class="price theme-color">₦ 10.00</h6>
                                         </div>
                                     </div>
                                 </div>
@@ -2399,7 +2419,7 @@
                                                 <h6 class="name">Organic Jam</h6>
                                             </a>
                                             <span>150 G</span>
-                                            <h6 class="price theme-color">$ 10.00</h6>
+                                            <h6 class="price theme-color">₦ 10.00</h6>
                                         </div>
                                     </div>
                                 </div>
@@ -2422,7 +2442,7 @@
                                                 <h6 class="name">Good Life Refined Sunflower Oil</h6>
                                             </a>
                                             <span>1 L</span>
-                                            <h6 class="price theme-color">$ 10.00</h6>
+                                            <h6 class="price theme-color">₦ 10.00</h6>
                                         </div>
                                     </div>
                                 </div>
@@ -2441,7 +2461,7 @@
                                                 <h6 class="name">Good Life Raw Peanuts</h6>
                                             </a>
                                             <span>500 G</span>
-                                            <h6 class="price theme-color">$ 10.00</h6>
+                                            <h6 class="price theme-color">₦ 10.00</h6>
                                         </div>
                                     </div>
                                 </div>
@@ -2460,7 +2480,7 @@
                                                 <h6 class="name">TufBest Farms Mong Dal</h6>
                                             </a>
                                             <span>1 KG</span>
-                                            <h6 class="price theme-color">$ 10.00</h6>
+                                            <h6 class="price theme-color">₦ 10.00</h6>
                                         </div>
                                     </div>
                                 </div>
@@ -2479,7 +2499,7 @@
                                                 <h6 class="name">Frooti Mango Drink</h6>
                                             </a>
                                             <span>160 ML</span>
-                                            <h6 class="price theme-color">$ 10.00</h6>
+                                            <h6 class="price theme-color">₦ 10.00</h6>
                                         </div>
                                     </div>
                                 </div>

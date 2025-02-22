@@ -4,7 +4,7 @@
             <div class="col-xxl-3 d-xxl-block d-none">
                 <div class="top-left-header">
                     <i class="iconly-Location icli text-white"></i>
-                    <span class="text-white">1418 Riverwood Drive, CA 96052, US</span>
+                    <span class="text-white">Lagos, Nigeria</span>
                 </div>
             </div>
 

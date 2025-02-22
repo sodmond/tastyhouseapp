@@ -3,6 +3,7 @@
 namespace App\Providers;
 
 use App\Models\ProductCategory;
+use App\Models\State;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Pagination\Paginator;
 use Illuminate\Support\Facades\Log;
@@ -29,7 +30,8 @@ class AppServiceProvider extends ServiceProvider
             $th_categories2 = ProductCategory::where('level', 2)->get();
             $th_categories3 = ProductCategory::where('level', 3)->get();
             $currency = '₦';
-            View::share(compact('th_categories1', 'th_categories2', 'th_categories3', 'currency'));
+            $th_states = State::orderBy('name')->get();
+            View::share(compact('th_categories1', 'th_categories2', 'th_categories3', 'currency', 'th_states'));
         } catch (\Exception $e) {
             Log::info($e->getMessage());
         }
