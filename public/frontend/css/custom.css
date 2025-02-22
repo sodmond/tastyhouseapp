@@ -70,3 +70,7 @@ header .onhover-dropdown .onhover-div-login {
     height: auto !important;
     width: 100%;
 }
+
+.btn-animation {
+    background: linear-gradient(90deg, #F77323 0%, #F77323 100%) !important;
+}
